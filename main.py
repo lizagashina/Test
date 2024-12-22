@@ -22,5 +22,6 @@ if __name__ == '__main__':
         if len(word) > max_len:
             max_len = len(word)
             result = word
+#Изменения ради изменений
 
     print(result)
